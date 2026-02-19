@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Fabio 👋
 
-<!--
-**fabio-gortz/fabio-gortz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer focused on Java and Python, with a strong foundation in object-oriented programming and software engineering fundamentals.
 
-Here are some ideas to get you started:
+🎓 Software Engineering student  
+🌍 International work experience in Germany  
+💻 Interested in backend development  
+🌐 Open to remote opportunities and international relocation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Java
+- Python
+- Object-Oriented Programming
+- Git
+- Agile / Scrum
